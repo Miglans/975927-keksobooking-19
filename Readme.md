@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Arturs Miglans](https://up.htmlacademy.ru/javascript/19/user/975927).
-* Наставник: `Неизвестно`.
+* Наставник:[Алексей Балесный](https://htmlacademy.ru/profile/id2216657).
 
 ---
 
